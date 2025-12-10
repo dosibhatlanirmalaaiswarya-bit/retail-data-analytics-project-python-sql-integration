@@ -106,7 +106,7 @@ Feel free to explore the project and reach out with any questions or feedback. I
 
 **LinkedIn:** https://linkedin.com/in/Aiswarya
 **Email:** nirmalaaiswaryadosibhatla@gmail.com
-**GitHub:** [Your GitHub Profile]
+**GitHub:** [[GitHub Profile](https://github.com/dosibhatlanirmalaaiswarya-bit)]
 
 **<h3>About the Maintainer</h3>**
 
