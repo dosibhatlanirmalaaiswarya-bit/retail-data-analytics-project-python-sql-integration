@@ -68,9 +68,7 @@ This project highlights my proficiency in:
 └──────────────┘    └──────────────┘    └──────────────┘    └──────────────┘
 ```
 
-<p align="center">
-  <img src="project_architecture.png" alt="Project Architecture Diagram" width="800"/>
-</p>
+
 
 ---
 
