@@ -455,24 +455,6 @@ python-dotenv>=1.0.0
 
 ---
 
-## 📸 Screenshots
-
-### Data Cleaning Process
-![Data Cleaning](screenshots/data_cleaning_process.png)
-*Python Pandas workflow for handling missing values and data standardization*
-
-### SQL Server Database
-![SQL Server](screenshots/sql_server_database.png)
-*Database structure with orders table loaded in SQL Server*
-
-### Revenue Analysis Results
-![Revenue Analysis](screenshots/revenue_analysis.png)
-*Top 10 revenue-generating products query output*
-
-### Regional Performance Dashboard
-![Regional Dashboard](screenshots/regional_performance.png)
-*Sales distribution across geographic regions*
-
 ---
 
 ## 🚀 Future Enhancements
